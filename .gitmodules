@@ -7,3 +7,6 @@
 [submodule "deep-style-image-prior"]
 	path = deep-style-image-prior
 	url = https://github.com/malak-codes/deep-style-image-prior
+[submodule "hybrid-image-fourier"]
+	path = hybrid-image-fourier
+	url = https://github.com/malak-codes/hybrid-image-fourier
