@@ -13,3 +13,6 @@
 [submodule "audio-watermarking-morse"]
 	path = audio-watermarking-morse
 	url = https://github.com/malak-codes/audio-watermarking-morse
+[submodule "video-scene-cut-detection"]
+	path = video-scene-cut-detection
+	url = https://github.com/malak-codes/video-scene-cut-detection
