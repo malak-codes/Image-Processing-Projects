@@ -1,0 +1,6 @@
+[submodule "hybrid-image-processing"]
+	path = hybrid-image-processing
+	url = https://github.com/malak-codes/hybrid-image-processing
+[submodule "Computer-Vision-"]
+	path = Computer-Vision-
+	url = https://github.com/malak-codes/Computer-Vision-
