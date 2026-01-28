@@ -10,3 +10,6 @@
 [submodule "hybrid-image-fourier"]
 	path = hybrid-image-fourier
 	url = https://github.com/malak-codes/hybrid-image-fourier
+[submodule "audio-watermarking-morse"]
+	path = audio-watermarking-morse
+	url = https://github.com/malak-codes/audio-watermarking-morse
