@@ -16,3 +16,6 @@
 [submodule "video-scene-cut-detection"]
 	path = video-scene-cut-detection
 	url = https://github.com/malak-codes/video-scene-cut-detection
+[submodule "stereo-vision-distance"]
+	path = stereo-vision-distance
+	url = https://github.com/malak-codes/stereo-vision-distance.git
